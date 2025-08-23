@@ -6,7 +6,69 @@ export default data = [
     },
     {
       question: "Ural-K prevents kidney stone recurrence in what percentage of patients?",
-      options: ["70%", "90%", "50%", "20%"],
+      options: ["70%", "90%", "50%", "20%"],[
+  {
+    "question": "The Residual Solvent Test for Napa Syrup follows which guideline?",
+    "options": ["BNF", "FDA", "ICH", "APS"],
+    "correct_option": "ICH"
+  },
+  {
+    "question": "Ural-K prevents kidney stone recurrence in what percentage of patients?",
+    "options": ["70%", "90%", "50%", "20%"],
+    "correct_option": "90%"
+  },
+  {
+    "question": "What is the efficacy rate of Omastin against vaginal candidiasis?",
+    "options": ["96.0%", "95.1%", "88.1%", "90.8%"],
+    "correct_option": "90.8%"
+  },
+  {
+    "question": "Why can Fosamin cure uncomplicated UTI in a single dose?",
+    "options": [
+      "Unique bactericidal action",
+      "USFDA Pregnancy Category B",
+      "Effective against ESBL-producing uropathogens",
+      "Maintains high concentration in urine for a longer period"
+    ],
+    "correct_option": "Maintains high concentration in urine for a longer period"
+  },
+  {
+    "question": "Which of the following is FALSE for Tuspel?",
+    "options": [
+      "In a cool way cough and cold goes away.",
+      "Can be used in patients over 12 years old.",
+      "Give relief from 2 symptoms.",
+      "Sugar free"
+    ],
+    "correct_option": "Give relief from 2 symptoms."
+  },
+  {
+    "question": "Which statement is FALSE for Jointec Max?",
+    "options": [
+      "It can be given to hypertensive and diabetic patients.",
+      "It has dosage convenience.",
+      "It has long established safety data.",
+      "It is not suitable for renal impaired patient."
+    ],
+    "correct_option": "It is not suitable for renal impaired patient."
+  },
+  {
+    "question": "Which of the following is NOT a feature of Nervalin CR?",
+    "options": [
+      "Once-daily dose",
+      "Fewer side effects",
+      "Higher cost than competitors",
+      "24-hour sustained release"
+    ],
+    "correct_option": "Higher cost than competitors"
+  },
+  {
+    "question": "Monocast provides superior nighttime symptom relief compared to:",
+    "options": ["Cetirizine", "Rupatadine", "Conventional antihistamine", "None"],
+    "correct_option": "Conventional antihistamine"
+  }
+]
+
       correct_option: "90%",
     },
     {
