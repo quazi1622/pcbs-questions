@@ -1,78 +1,72 @@
 [
   {
-    "question": "In Zopride, the maximum single impurity is __% and total impurity is __%.",
-    "options": ["0.02% & 0.04%", "0.01% & 0.02%", "0.05% & 0.10%", "0.04% & 0.08%"],
-    "correct_option": "0.02% & 0.04%"
+    "question": "What percentage of doctors rated Napa Extra as excellent or good?",
+    "options": ["95%", "97.5%", "99.73%", "100%"],
+    "correct_option": "99.73%"
   },
   {
-    "question": "Which of the following is FALSE for Tuspel?",
+    "question": "Terbex offers how many times higher concentration than fungal MIC in skin?",
+    "options": ["100", "250", "500", "910"],
+    "correct_option": "910"
+  },
+  {
+    "question": "Buratuss can be given to patients over how many months old?",
+    "options": ["1 month", "3 months", "6 months", "12 months"],
+    "correct_option": "1 month"
+  },
+  {
+    "question": "Which of the following pathogens are covered by Arlin (Linezolid)?",
     "options": [
-      "In a cool way cough and cold goes away.",
-      "Can be used in patients over 12 years old.",
-      "Give relief from 2 symptoms.",
-      "Sugar free"
+      "Gram-positive cocci with MRSA",
+      "Vancomycin-resistant Enterococci (VRE)",
+      "ESBL-producing gram-positive bacteria",
+      "All of the above"
     ],
-    "correct_option": "Give relief from 2 symptoms."
+    "correct_option": "All of the above"
   },
   {
-    "question": "What is the positioning of Prosan HZ?",
+    "question": "Which organizations approved the dosage guidelines of D-Rise?",
+    "options": ["FDA and WHO", "MHRA and EMA", "DGDA and EMA", "ICH and USP"],
+    "correct_option": "MHRA and EMA"
+  },
+  {
+    "question": "What is the particle size of Terbinafine in Terbex?",
+    "options": ["22.5 micron", "11.0 micron", "12.5 micron", "15.5 micron"],
+    "correct_option": "11.0 micron"
+  },
+  {
+    "question": "Which of the following is a benefit of Vonocab?",
     "options": [
-      "Faster symptom relief with fewer side effects",
-      "Stronger BP reduction with better risk reduction",
-      "Longer half-life with sustained release",
-      "Safe for renal impaired patients"
+      "Toxic solvent free, ensuring no health hazards",
+      "Contains Esomeprazole for gastric protection",
+      "Provides 17-fold more pain relief than Pregabalin",
+      "Sugar-free and gluten-free formulation"
     ],
-    "correct_option": "Stronger BP reduction with better risk reduction"
+    "correct_option": "Toxic solvent free, ensuring no health hazards"
   },
   {
-    "question": "Which test result for Napa Syrup do we maintain below BP specification?",
+    "question": "What are the two analgesic brands positioned in the Gyne segment?",
     "options": [
-      "Potency test: 97%-105%",
-      "Potency test: 95%-100%",
-      "Diethylene Glycol test: Below 0.005%",
-      "Diethylene Glycol test: Below 0.1%"
+      "Napa Extra and Napa Rapid",
+      "Buratuss and Billi",
+      "Vonocab and Buflex",
+      "Arlin and D-Rise"
     ],
-    "correct_option": "Diethylene Glycol test: Below 0.005%"
+    "correct_option": "Napa Extra and Napa Rapid"
   },
   {
-    "question": "Which international body recommends Montelukast for allergic conditions?",
-    "options": ["WHO", "ARIA", "FDA", "BNF"],
-    "correct_option": "ARIA"
-  },
-  {
-    "question": "Which of the following is NOT a feature of Nervalin CR?",
+    "question": "Turboclav is manufactured with __________ granules to ensure __________ dosing.",
     "options": [
-      "Once-daily dose",
-      "Fewer side effects",
-      "Higher cost than competitors",
-      "24-hour sustained release"
+      "powdered, rapid",
+      "premixed, uniform",
+      "enteric-coated, protective",
+      "compressed, variable"
     ],
-    "correct_option": "Higher cost than competitors"
+    "correct_option": "premixed, uniform"
   },
   {
-    "question": "The Residual Solvent Test for Napa Syrup follows which guideline?",
-    "options": ["BNF", "FDA", "ICH", "APS"],
-    "correct_option": "ICH"
-  },
-  {
-    "question": "Why is Acifix (Rabeprazole) considered preferred for cardiac and diabetic patients?",
-    "options": [
-      "It is the cheapest PPI",
-      "It undergoes mostly non-cytochromic metabolism, minimizing drug-drug interactions",
-      "It works faster than Omeprazole",
-      "It has no side effects"
-    ],
-    "correct_option": "It undergoes mostly non-cytochromic metabolism, minimizing drug-drug interactions"
-  },
-  {
-    "question": "Conventional treatments like Pregabalin IR and Mirogabalin need to be taken __ to __ times daily.",
-    "options": ["1–2", "2–3", "3–4", "4–5"],
-    "correct_option": "2–3"
-  },
-  {
-    "question": "Tuspel contains 200 mg of guaifenesin in how many ml of syrup?",
-    "options": ["2 ml", "5 ml", "10 ml", "15 ml"],
-    "correct_option": "5 ml"
+    "question": "Ferrous sulphate shows 62.7% side effects whereas Ferrous ascorbate provides only what percentage?",
+    "options": ["25.0%", "30.5%", "37.2%", "40.0%"],
+    "correct_option": "37.2%"
   }
 ]
-
