@@ -1,0 +1,62 @@
+[
+  {
+    "question": "With Amdocal 2.5 mg tablets, chances of pedal edema is _________.",
+    "options": ["15.2%", "3.1%", "1.8%", "10.1%"],
+    "correct_option": "1.8%"
+  },
+  {
+    "question": "Which of the following medications should be taken for dry cough with symptoms of allergic rhinitis?",
+    "options": ["Tuspel", "Dextrim", "Buratuss", "Mucomist"],
+    "correct_option": "Dextrim"
+  },
+  {
+    "question": "Raw material of Bextram Silver is imported from which source?",
+    "options": ["Asian", "American", "European", "African"],
+    "correct_option": "European"
+  },
+  {
+    "question": "Which brand is positioned in dry cough associated with nasal congestion & allergic rhinitis?",
+    "options": ["Tuspel", "Dextrim", "Mucomist", "Buratuss"],
+    "correct_option": "Dextrim"
+  },
+  {
+    "question": "Why should doctors prescribe Dinovo instead of Naproxen?",
+    "options": [
+      "Dinovo has no cardiac risk",
+      "Dinovo contains Esomeprazole, protecting against NSAID-induced ulcers",
+      "Naproxen is ineffective for pain",
+      "Dinovo is cheaper than Naproxen"
+    ],
+    "correct_option": "Dinovo contains Esomeprazole, protecting against NSAID-induced ulcers"
+  },
+  {
+    "question": "A patient diagnosed with psychosomatic disorder with more depression should be prescribed:",
+    "options": ["Numira", "Dinovo", "Frenxit", "Bextram Silver"],
+    "correct_option": "Frenxit"
+  },
+  {
+    "question": "Numira is considered 'Powerful Yet Gentle' because:",
+    "options": [
+      "It is cheaper than Pregabalin",
+      "It is 17 times more powerful for neuropathic pain relief and has fewer side effects",
+      "It acts faster than Naproxen",
+      "It has no CNS effects"
+    ],
+    "correct_option": "It is 17 times more powerful for neuropathic pain relief and has fewer side effects"
+  },
+  {
+    "question": "What is the bioavailability percentage of Vivori?",
+    "options": ["86%", "90%", "96%", "80%"],
+    "correct_option": "96%"
+  },
+  {
+    "question": "Napa Extend is positioned for:",
+    "options": ["Osteoarthritis pain management", "Joint pain", "Muscle pain", "All the above"],
+    "correct_option": "All the above"
+  },
+  {
+    "question": "According to the ASCOT-BPLA Trial, Amlodipine group shows significant RRR in development of renal impairment up to ____ when compared with Atenolol.",
+    "options": ["7.5%", "10%", "15%", "25%"],
+    "correct_option": "15%"
+  }
+]

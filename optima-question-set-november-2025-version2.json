@@ -1,0 +1,67 @@
+[
+  {
+    "question": "Bilastine is recommended as an ideal antihistamine by which two guidelines?",
+    "options": ["NICE and WHO", "EAACI and ARIA", "FDA and EMA", "BNF and USP"],
+    "correct_option": "EAACI and ARIA"
+  },
+  {
+    "question": "Why is the pediatric dose of Arlin given three times daily (T.I.D)?",
+    "options": [
+      "Due to faster gastric emptying in children",
+      "Due to higher clearance rate and shorter half-life in children",
+      "Because absorption is slower in children",
+      "Because children have higher body weight"
+    ],
+    "correct_option": "Due to higher clearance rate and shorter half-life in children"
+  },
+  {
+    "question": "Each ml of D-Rise oral solution contains how many IU of cholecalciferol?",
+    "options": ["200 IU", "500 IU", "1000 IU", "2000 IU"],
+    "correct_option": "2000 IU"
+  },
+  {
+    "question": "For Xidolac Meltab, absorption occurs through which site?",
+    "options": ["Stomach", "Duodenum", "Buccal mucosa", "Esophagus"],
+    "correct_option": "Buccal mucosa"
+  },
+  {
+    "question": "What is the onset of action of Billi?",
+    "options": ["15 minutes", "20 minutes", "30 minutes", "1 hour"],
+    "correct_option": "30 minutes"
+  },
+  {
+    "question": "How long does Buratuss take to start working?",
+    "options": ["5 seconds", "30 seconds", "5 minutes", "15 minutes"],
+    "correct_option": "5 minutes"
+  },
+  {
+    "question": "Amlodipine of Amdocal Plus ______ oxygen supply and Atenolol ______ cardiac workload.",
+    "options": [
+      "reduces, improves",
+      "improves, reduces",
+      "improves, increases",
+      "reduces, increases"
+    ],
+    "correct_option": "improves, reduces"
+  },
+  {
+    "question": "Hemoglobin level increased by 4.14 g/dl within how many months of treatment with Hemofix FZ?",
+    "options": ["0.5 month", "1 month", "2 months", "3 months"],
+    "correct_option": "1 month"
+  },
+  {
+    "question": "Turboclav is manufactured with __________ granules which ensure __________ dosing.",
+    "options": [
+      "powdered, variable",
+      "premixed, uniform",
+      "compressed, slow-release",
+      "enteric, protective"
+    ],
+    "correct_option": "premixed, uniform"
+  },
+  {
+    "question": "Ferrous sulphate shows 62.7% side effects, whereas Ferrous ascorbate provides only __________% side effects.",
+    "options": ["25.5%", "30.0%", "37.2%", "42.5%"],
+    "correct_option": "37.2%"
+  }
+]

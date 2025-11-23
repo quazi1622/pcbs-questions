@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What percentage of doctors rated Napa Extra as excellent or good?",
+    "options": ["95%", "97.5%", "99.73%", "100%"],
+    "correct_option": "99.73%"
+  },
+  {
+    "question": "Terbex offers how many times higher concentration than fungal MIC in skin?",
+    "options": ["100", "250", "500", "910"],
+    "correct_option": "910"
+  },
+  {
+    "question": "Buratuss can be given to patients over how many months old?",
+    "options": ["1 month", "3 months", "6 months", "12 months"],
+    "correct_option": "1 month"
+  },
+  {
+    "question": "Which of the following pathogens are covered by Arlin (Linezolid)?",
+    "options": [
+      "Gram-positive cocci with MRSA",
+      "Vancomycin-resistant Enterococci (VRE)",
+      "ESBL-producing gram-positive bacteria",
+      "All of the above"
+    ],
+    "correct_option": "All of the above"
+  },
+  {
+    "question": "Which organizations approved the dosage guidelines of D-Rise?",
+    "options": ["FDA and WHO", "MHRA and EMA", "DGDA and EMA", "ICH and USP"],
+    "correct_option": "MHRA and EMA"
+  },
+  {
+    "question": "What is the particle size of Terbinafine in Terbex?",
+    "options": ["22.5 micron", "11.0 micron", "12.5 micron", "15.5 micron"],
+    "correct_option": "11.0 micron"
+  },
+  {
+    "question": "Which of the following is a benefit of Vonocab?",
+    "options": [
+      "Toxic solvent free, ensuring no health hazards",
+      "Contains Esomeprazole for gastric protection",
+      "Provides 17-fold more pain relief than Pregabalin",
+      "Sugar-free and gluten-free formulation"
+    ],
+    "correct_option": "Toxic solvent free, ensuring no health hazards"
+  },
+  {
+    "question": "What are the two analgesic brands positioned in the Gyne segment?",
+    "options": [
+      "Napa Extra and Napa Rapid",
+      "Buratuss and Billi",
+      "Vonocab and Buflex",
+      "Arlin and D-Rise"
+    ],
+    "correct_option": "Napa Extra and Napa Rapid"
+  },
+  {
+    "question": "Turboclav is manufactured with __________ granules to ensure __________ dosing.",
+    "options": [
+      "powdered, rapid",
+      "premixed, uniform",
+      "enteric-coated, protective",
+      "compressed, variable"
+    ],
+    "correct_option": "premixed, uniform"
+  },
+  {
+    "question": "Ferrous sulphate shows 62.7% side effects whereas Ferrous ascorbate provides only what percentage?",
+    "options": ["25.0%", "30.5%", "37.2%", "40.0%"],
+    "correct_option": "37.2%"
+  }
+]

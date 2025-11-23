@@ -1,0 +1,73 @@
+[
+    {
+      "question": "Raw material of Bextram Silver is imported from which source?",
+      "options": ["Asian", "European", "American", "Middle Eastern"],
+      "correct_option": "European"
+    },
+    {
+      "question": "Which of the following brands is appropriate for a patient with psychosomatic disorder and more depression?",
+      "options": ["Dinovo", "Frenxit", "Numira", "Napa Extend"],
+      "correct_option": "Frenxit"
+    },
+    {
+      "question": "Which coating layer in Neurocare ensures protection against atmospheric moisture?",
+      "options": ["Carnauba Wax", "Opadry II", "Insta moist shield Aqua II", "Hydrophilic Matrix"],
+      "correct_option": "Insta moist shield Aqua II"
+    },
+    {
+      "question": "What is the positioning of Dextrim?",
+      "options": [
+        "For bacterial cough",
+        "For dry cough with nasal congestion & allergic rhinitis",
+        "For wet cough in pneumonia",
+        "For fever with sore throat"
+      ],
+      "correct_option": "For dry cough with nasal congestion & allergic rhinitis"
+    },
+    {
+      "question": "Why is Dinovo safer than Naproxen?",
+      "options": [
+        "It is cheaper",
+        "It contains Esomeprazole for gastric protection against NSAID-induced ulcers",
+        "It has faster absorption",
+        "It has no effect on the heart"
+      ],
+      "correct_option": "It contains Esomeprazole for gastric protection against NSAID-induced ulcers"
+    },
+    {
+      "question": "What is the bioavailability of Vivori?",
+      "options": ["92%", "94%", "96%", "98%"],
+      "correct_option": "96%"
+    },
+    {
+      "question": "Which of the following is NOT a benefit of Laxjoy?",
+      "options": [
+        "Formulated with maize starch for superior disintegration",
+        "Gluten-free, reducing risk of bloating",
+        "Sugar-free, suitable for all patients",
+        "Contains added caffeine for fast relief"
+      ],
+      "correct_option": "Contains added caffeine for fast relief"
+    },
+    {
+      "question": "According to the ASCOT-BPLA Trial, Amlodipine reduced renal impairment risk compared to Atenolol by:",
+      "options": ["7.5%", "10%", "15%", "25%"],
+      "correct_option": "15%"
+    },
+    {
+      "question": "How many vitamins and minerals are present in Bextram Silver?",
+      "options": ["25", "28", "30", "32"],
+      "correct_option": "30"
+    },
+    {
+      "question": "Remmo is unique because it offers:",
+      "options": [
+        "Delayed acid release only",
+        "Dual-mode of actions: immediate acid neutralization and long-lasting acid suppression",
+        "Only immediate relief without long-term benefit",
+        "Combination with Naproxen for pain relief"
+      ],
+      "correct_option": "Dual-mode of actions: immediate acid neutralization and long-lasting acid suppression"
+    }
+  ]
+  
