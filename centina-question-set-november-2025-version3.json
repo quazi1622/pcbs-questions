@@ -1,1 +1,77 @@
-
+[
+  {
+    "question": "In Zopride, the maximum single impurity is __% and total impurity is __%.",
+    "options": ["0.02% & 0.04%", "0.01% & 0.02%", "0.05% & 0.10%", "0.04% & 0.08%"],
+    "correct_option": "0.02% & 0.04%"
+  },
+  {
+    "question": "Which of the following is FALSE for Tuspel?",
+    "options": [
+      "In a cool way cough and cold goes away.",
+      "Can be used in patients over 12 years old.",
+      "Give relief from 2 symptoms.",
+      "Sugar free"
+    ],
+    "correct_option": "Give relief from 2 symptoms."
+  },
+  {
+    "question": "What is the positioning of Prosan HZ?",
+    "options": [
+      "Faster symptom relief with fewer side effects",
+      "Stronger BP reduction with better risk reduction",
+      "Longer half-life with sustained release",
+      "Safe for renal impaired patients"
+    ],
+    "correct_option": "Stronger BP reduction with better risk reduction"
+  },
+  {
+    "question": "Which test result for Napa Syrup do we maintain below BP specification?",
+    "options": [
+      "Potency test: 97%-105%",
+      "Potency test: 95%-100%",
+      "Diethylene Glycol test: Below 0.005%",
+      "Diethylene Glycol test: Below 0.1%"
+    ],
+    "correct_option": "Diethylene Glycol test: Below 0.005%"
+  },
+  {
+    "question": "Which international body recommends Montelukast for allergic conditions?",
+    "options": ["WHO", "ARIA", "FDA", "BNF"],
+    "correct_option": "ARIA"
+  },
+  {
+    "question": "Which of the following is NOT a feature of Nervalin CR?",
+    "options": [
+      "Once-daily dose",
+      "Fewer side effects",
+      "Higher cost than competitors",
+      "24-hour sustained release"
+    ],
+    "correct_option": "Higher cost than competitors"
+  },
+  {
+    "question": "The Residual Solvent Test for Napa Syrup follows which guideline?",
+    "options": ["BNF", "FDA", "ICH", "APS"],
+    "correct_option": "ICH"
+  },
+  {
+    "question": "Why is Acifix (Rabeprazole) considered preferred for cardiac and diabetic patients?",
+    "options": [
+      "It is the cheapest PPI",
+      "It undergoes mostly non-cytochromic metabolism, minimizing drug-drug interactions",
+      "It works faster than Omeprazole",
+      "It has no side effects"
+    ],
+    "correct_option": "It undergoes mostly non-cytochromic metabolism, minimizing drug-drug interactions"
+  },
+  {
+    "question": "Conventional treatments like Pregabalin IR and Mirogabalin need to be taken __ to __ times daily.",
+    "options": ["1–2", "2–3", "3–4", "4–5"],
+    "correct_option": "2–3"
+  },
+  {
+    "question": "Tuspel contains 200 mg of guaifenesin in how many ml of syrup?",
+    "options": ["2 ml", "5 ml", "10 ml", "15 ml"],
+    "correct_option": "5 ml"
+  }
+]
